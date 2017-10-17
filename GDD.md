@@ -1,4 +1,4 @@
-## Vision In The Dark: Design Document
+﻿## Vision In The Dark: Design Document
 
 ### Concept
 Far in the future, Robots are mass produced on Space stations that orbit Earth.
@@ -59,4 +59,4 @@ You escape destruction in the tutorial level and must use tmeporary vision to gu
 ### Player conrols
 * WASD keys for movement.
 * E key for interactions.
-* potential controller support
+* potential controller support.
