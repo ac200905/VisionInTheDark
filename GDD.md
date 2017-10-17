@@ -59,4 +59,4 @@ You escape destruction in the tutorial level and must use tmeporary vision to gu
 ### Player conrols
 * WASD keys for movement.
 * E key for interactions.
-* potential controller support
+* potential controller support.
